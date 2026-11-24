@@ -1,0 +1,8 @@
+workstation,user,admin,last_login_days
+WS-01,admin,yes,2
+WS-01,ayesha,no,1
+WS-02,admin,yes,5
+WS-02,bilal,no,3
+WS-03,admin,yes,1
+WS-04,oldadmin,yes,120
+WS-05,broken,yes,soon
